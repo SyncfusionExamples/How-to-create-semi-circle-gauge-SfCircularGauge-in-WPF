@@ -1,6 +1,6 @@
 # How to create semi-circular gauge SfCircularGauge in WPF
 
-This repository contains sample for how to create semi circle gauge using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
+This repository contains sample to create semi circle gauge using the [Syncfusion WPF Circular Gauge](https://help.syncfusion.com/wpf/radial-gauge/getting-started) control.
 
 ## Syncfusion controls
 
